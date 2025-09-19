@@ -3,7 +3,7 @@
 Este projeto é uma **landing page estática** desenvolvida como exercício prático do canal **[Sujeito Programador](https://www.youtube.com/c/SujeitoProgramador)**.  
 A proposta é divulgar a barbearia **Dev Barber**, aplicando conceitos de **HTML**, **CSS** e **SASS**, resultando em uma página moderna, responsiva e de fácil replicação para outros tipos de negócios.
 
-landingpage-mcbeicx5c-fabianoffortes-projects.vercel.app
+[landingpage-mcbeicx5c-fabianoffortes-projects.vercel.app](https://landingpage-iymv149mx-fabianoffortes-projects.vercel.app/)
 
 ---
 
